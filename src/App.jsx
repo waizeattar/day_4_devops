@@ -52,7 +52,7 @@ function App() {
 
           <a className="nav-item active" href="#">
             <span>⌂</span>
-            Dashboard
+            Manjunath
           </a>
 
           <a className="nav-item" href="#">
